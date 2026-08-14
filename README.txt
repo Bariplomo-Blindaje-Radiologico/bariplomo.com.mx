@@ -1,8 +1,3 @@
-BARIPLOMO - sitio web
-Publicación gratuita recomendada: GitHub Pages.
-1. Crear cuenta en GitHub.
-2. Crear repositorio público llamado bariplomo-web.
-3. Subir index.html y CNAME.
-4. Settings > Pages > Deploy from branch > main > /root > Save.
-5. Custom domain: bariplomo.com.mx.
-6. En DonWeb crear la zona DNS y agregar los 4 registros A de GitHub Pages y CNAME www -> TUUSUARIO.github.io.
+BARIPLOMO WEB MAESTRO V6
+
+Cambios: cotizador basado en precio ya calculado por unidad de venta/rendimiento del Mapa Maestro; evita duplicados idénticos en Mi cotización; guarda la cotización localmente; genera número de cliente desde 1700 y folio de cotización desde 3100; conserva WhatsApp y correo.
